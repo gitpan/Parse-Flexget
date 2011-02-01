@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               Parse-Flexget
-version:            0.002
+version:            0.012
 abstract:           Parse the flexget program output
 author:
     - Magnus Woldrich <trapd00r@trapd00r.se>
